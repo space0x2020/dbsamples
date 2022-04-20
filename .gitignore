@@ -1,0 +1,3 @@
+./mydb.db
+.setup/setupinfo
+.setup/mydb_*.db

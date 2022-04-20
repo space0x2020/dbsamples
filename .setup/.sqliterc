@@ -1,0 +1,7 @@
+-- SCSWETs
+.mode column
+.width 0
+.headers on
+-- .nullvalue NULL
+PRAGMA foreign_keys = 1;
+-- PRAGMA encoding = 'UTF-8';
